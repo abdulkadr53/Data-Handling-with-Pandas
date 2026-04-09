@@ -89,16 +89,21 @@ Created a new feature:
 * Jupyter Notebook
 ---
 ## Folder Structure
- Data Handling with pandas.ipynb
+```
+ Data-Handling-with-pandas/
  |
- ├── Data Handling with pandas
+ ├── Titanic-dataset.ipynb
  └── README.md
+```
 ---
 ## How to Run
-```git clone https://github.com/abdulkadr53/Data-Handling-with-Pandas.git
+```
+git clone https://github.com/abdulkadr53/Data-Handling-with-Pandas.git
 cd Data-Handling-with-Pandas.git
-jupyter notebook```
-
+jupyter notebook
+```
 ----
-Abdulkadr Heyredin for CSE-Data Science Task 3 submission
+Abdulkadr Heyredin
+
+Submitted: CSE-Data Science Task 3 submission
 
